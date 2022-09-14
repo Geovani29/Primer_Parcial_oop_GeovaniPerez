@@ -1,0 +1,6 @@
+@startuml GC_UML
+class cine{
+sele
+zona()
+}
+@enduml
